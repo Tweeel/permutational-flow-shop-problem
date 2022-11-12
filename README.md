@@ -1,6 +1,6 @@
 # permutational-flow-shop-problem
 
-random search
-Local search (1 algorithm to choose)
-simulated annealing
-Genetic algorithm
+random search <br>
+Local search (1 algorithm to choose) <br>
+simulated annealing <br>
+Genetic algorithm <br>
